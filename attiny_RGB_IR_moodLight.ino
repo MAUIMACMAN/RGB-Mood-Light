@@ -1,6 +1,9 @@
 /*ATtiny85 RGB Mood Light
 Zwei Funktionen: Fade und Farbwahl per IR-Fernsteuerung
 Es kann eine x-beliebige IR-Fernsteuerung benutzt werden
+
+Original Code von http://www.instructables.com/id/ATtiny85-Mini-RGB-Mood-Light/
+Code geändert von weeg Juli 2013
 */
 
 const int redPin = 1;           // Pin fuer Rot 
